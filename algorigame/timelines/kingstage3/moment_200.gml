@@ -1,0 +1,1 @@
+bulletcreator(orabbitfight.x,orabbitfight.y,2);

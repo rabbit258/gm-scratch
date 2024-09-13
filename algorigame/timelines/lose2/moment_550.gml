@@ -1,0 +1,1 @@
+obear.sprite_index=bearclawattack;

@@ -1,0 +1,1 @@
+showpaint=false;

@@ -1,0 +1,9 @@
+instance_create_depth(240,90,depth-3,obear);
+with(instance_create_depth(290,80,depth-1,dialog))
+{
+	word="仔细听好了."+
+	"假设这里有指定数量的萝卜，你和我一次最多拿"+
+	"4根萝卜,最少一次拿1根,先后手随便你"+
+	"选择,但是必须保证你能拿到最后一根,要是"+
+	"失败了会...就像这样";
+}

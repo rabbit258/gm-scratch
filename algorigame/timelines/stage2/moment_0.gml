@@ -1,0 +1,10 @@
+with(instance_create_depth(290,80,depth-1,dialog))
+{
+	word="哈哈哈,非常聪明.接下来"+
+	"规则发生了一点点的小变化，萝卜的堆数变为"+
+	"两堆，每次可以从某一堆取至少1根萝卜，没有上限"+
+	",或者从两堆取相同的萝卜数.胜利条件还是和之前"+
+	"一样，谁拿走最后一根萝卜谁就算胜利,你先手"
+}
+bearmanager.stage++;
+instance_destroy(obearchooserec);

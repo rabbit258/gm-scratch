@@ -1,0 +1,1 @@
+obear.image_alpha=0.40;

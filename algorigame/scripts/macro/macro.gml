@@ -1,0 +1,14 @@
+#macro TILE_SIZE 32
+#macro RESOLUTION_W 480
+#macro RESOLUTION_H 270
+#macro IMAGESPEED 1.0
+#macro TEXTWIDTH 3
+#macro ROOM_START rsetoff
+
+enum STATE{
+	FREE,
+	TALK,
+	CHOOSE,
+	ATTACK,
+	AVOID
+}

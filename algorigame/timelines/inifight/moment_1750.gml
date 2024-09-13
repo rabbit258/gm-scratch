@@ -1,0 +1,14 @@
+with(instance_create_depth(190,170,depth-2,osuperclaw))
+{
+	x=190;
+	y=170;
+	image_xscale=1.8;
+	image_yscale=2.0;
+}
+with(instance_create_depth(290,170,depth-2,osuperclaw))
+{
+	x=290;
+	y=170;
+	image_xscale=1.8;
+	image_yscale=2.0;
+}

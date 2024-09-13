@@ -1,0 +1,1 @@
+	bulletcreator(240,170,2);

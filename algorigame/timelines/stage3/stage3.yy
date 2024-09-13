@@ -1,0 +1,27 @@
+{
+  "momentList": [
+    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":100,"evnt":{"isDnD":false,"eventNum":100,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":670,"evnt":{"isDnD":false,"eventNum":670,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":750,"evnt":{"isDnD":false,"eventNum":750,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":870,"evnt":{"isDnD":false,"eventNum":870,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":900,"evnt":{"isDnD":false,"eventNum":900,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":990,"evnt":{"isDnD":false,"eventNum":990,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1050,"evnt":{"isDnD":false,"eventNum":1050,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1100,"evnt":{"isDnD":false,"eventNum":1100,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1150,"evnt":{"isDnD":false,"eventNum":1150,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1200,"evnt":{"isDnD":false,"eventNum":1200,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1250,"evnt":{"isDnD":false,"eventNum":1250,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1300,"evnt":{"isDnD":false,"eventNum":1300,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1350,"evnt":{"isDnD":false,"eventNum":1350,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"moment":1500,"evnt":{"isDnD":false,"eventNum":1500,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"parent":{"name":"stage3","path":"timelines/stage3/stage3.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+  ],
+  "parent": {
+    "name": "bear",
+    "path": "folders/Objects/BOSS/bear.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "stage3",
+  "tags": [],
+  "resourceType": "GMTimeline",
+}
